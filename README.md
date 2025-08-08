@@ -1,7 +1,13 @@
-license: apache-2.0
+---
 title: Search Engine
-sdk: streamlit
 emoji: 🏆
 colorFrom: red
 colorTo: yellow
-short_description: Search Engine With LLM
+sdk: streamlit
+sdk_version: "1.36.0"
+app_file: app.py
+pinned: false
+license: apache-2.0
+short_description: Search Engine with LLM
+---
+
